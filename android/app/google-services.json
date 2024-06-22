@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "888888761375",
+    "project_id": "flutter-chess-401dd",
+    "storage_bucket": "flutter-chess-401dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888888761375:android:86d479362dd97ca3e4892a",
+        "android_client_info": {
+          "package_name": "com.example.fchess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPjvXESiIk71PJm_VZiBd7z5cOBGAS6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888888761375:android:920bfadaf9da7cc0e4892a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPjvXESiIk71PJm_VZiBd7z5cOBGAS6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:888888761375:android:6493d9e829535e43e4892a",
+        "android_client_info": {
+          "package_name": "com.example.flutter_chess"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPPjvXESiIk71PJm_VZiBd7z5cOBGAS6U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
